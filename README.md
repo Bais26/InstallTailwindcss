@@ -18,7 +18,7 @@ Ini adalah panduan langkah demi langkah untuk menginstal dan menggunakan Tailwin
     ```bash
     npm init -y
     ```
-   ## Tampilan Juga sudah di init
+   ## Tampilan setelah di init
    
   > {
 > 
